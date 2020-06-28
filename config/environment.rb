@@ -15,4 +15,7 @@ cult2 = Cult.new "Old Cult", "Cali", 1355, "exam"
 cult3 = Cult.new "Old ", "Cali", 1355, "exam"
 
 Bloodoath.new cult1, follower1
+Bloodoath.new cult2, follower2
+Bloodoath.new cult3, follower3
+
 binding.pry 
